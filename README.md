@@ -2,29 +2,52 @@
 # Hi there, I'm Fadilulahi Adebayo 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Quantity+Surveying+Student;Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI;Construction+Measurement+%26+Cost+Estimation;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Quantity+Surveying+%7C+Data+Analytics;Construction+Measurement+%26+BOQ;Cost+Estimation+%26+Quantity+Take-Off;Excel+Data+Cleaning+%26+Analysis;SQL+%7C+Power+BI+%7C+Business+Intelligence" alt="Typing SVG" />
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fadilulahi-abubakr-051511350/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/fadilulahi-abubakr-051511350/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:fadlulahadebayor@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me
 
-I'm a Quantity Surveying student, with a growing interest in Data Analytics and Business Intelligence.
+I'm a Quantity Surveying student at the Federal University of Technology, Minna, with a strong interest in Data Analytics and Business Intelligence.
 
-My background in Quantity Surveying has given me practical exposure to construction measurement, Bills of Quantities (BOQ), cost estimation, construction drawings and PlanSwift.
+My Quantity Surveying background has given me practical exposure to construction measurement, Bills of Quantities (BOQ), cost estimation, construction drawings, material scheduling and PlanSwift.
 
 I'm also developing my data analytics skills, using Microsoft Excel and SQL to clean, analyse and interpret data. I'm currently learning Power BI to develop interactive dashboards and communicate insights effectively.
 
-I'm interested in combining construction knowledge and data analytics to improve decision-making, cost management and business performance.
+I'm particularly interested in applying analytical thinking and technology to construction cost management, business performance and data-driven decision-making.
+
+## 🎯 Areas of Specialisation
+
+### 🏗️ Quantity Surveying & Construction
+- Construction Measurement
+- Bills of Quantities (BOQ) Preparation
+- Quantity Take-Off
+- Construction Cost Estimation
+- Construction Drawing Interpretation
+- PlanSwift Digital Measurement
+- Material Scheduling
+- Construction Cost Management
+
+### 📊 Data Analytics & Business Intelligence
+- Excel Data Cleaning
+- Data Analysis and Interpretation
+- SQL Queries and Data Manipulation
+- Sales Performance Analysis
+- Data Visualisation
+- Business Intelligence
+- PivotTables and Power Query
+- Analytical Reporting
 
 ## 🔭 What I'm Currently Working On
 
 - **Excel Projects:** Data cleaning, PivotTables, sales analysis and reporting.
 - **SQL Projects:** Data querying, data cleaning and business analysis using MySQL.
 - **Power BI:** Learning data visualisation and interactive dashboard development.
+- **Construction Analysis:** Exploring the application of data analysis in construction cost management.
 
 ## 🌱 Currently Learning
 
@@ -57,15 +80,17 @@ I'm interested in combining construction knowledge and data analytics to improve
 
 ### 💡 Core Competencies
 
-- Data Cleaning
-- Data Analysis
+- Data Cleaning and Analysis
 - Data Interpretation
+- SQL Querying
+- Sales Analysis
 - PivotTables
 - Power Query
 - Construction Measurement
 - Quantity Take-Off
-- Cost Estimation
 - Bills of Quantities
+- Cost Estimation
+- Construction Drawings
 
 ## 📂 Featured Projects
 
